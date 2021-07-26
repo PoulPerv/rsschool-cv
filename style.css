@@ -40,3 +40,7 @@ li {
   display: block;
   text-align: center;
 }
+time {
+  text-align: center;
+  display: block;
+}
