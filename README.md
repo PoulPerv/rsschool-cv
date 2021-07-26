@@ -1,1 +1,1 @@
-https://PoulPerv.github.io/rsschool-cv/cv
+https://PoulPerv.github.io/rsschool-cv/
