@@ -1,0 +1,42 @@
+body {
+  width: 1440px;
+  margin: 0 auto;
+}
+div {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.me,
+.contacts {
+  text-align: center;
+}
+.photo {
+  border-radius: 50%;
+}
+.code {
+  margin-left: 500px;
+  text-align: left;
+}
+ul {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+.link_to_school {
+  display: block;
+  text-align: center;
+}
